@@ -19,15 +19,15 @@
 
   Follow the deployed link and enter a book in the search bar
   
-  ## Usage
- 
-  na
+  ## Deployed Link
+  https://gentle-shelf-91474.herokuapp.com/
 
-  ## Contributing
+  ## Github Repo
+  https://github.com/steverodrig/book-finder
 
-  na
+  ## Preview
+![image](https://user-images.githubusercontent.com/21253903/103978689-a05b6380-5141-11eb-903d-0bced18c32d1.png)
 
-  ## Tests
 
   
 
