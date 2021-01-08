@@ -7,12 +7,14 @@ function Saved() {
 
     const [saved, setSaved] = useState([]);
 
+    // get request to populate saved book section to be done here
     function loadSaves() {
-        axios.get(/*get all saved books from mongoDB collection */)
-            .then(res => 
-                setSaved(res.data)
-                )
-                .catch(err => console.log(err));
+        console.log("test")
+        // axios.get(/*get all saved books from mongoDB collection */)
+            // .then(res => 
+            //     setSaved(res.data)
+            //     )
+            //     .catch(err => console.log(err));
     }
 
     useEffect(() => {

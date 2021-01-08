@@ -23,10 +23,11 @@ function Search() {
                 console.log(err)
             })
     }
-    console.log(books)
-
+   
+    // post to saved collection to be handled here
     function bookPost () {
-        axios.post(/*data from specific card below by :id*/)
+        console.log(books)
+        // axios.post(/*data from specific card below by :id*/)
     };
 
     useEffect(() => {
